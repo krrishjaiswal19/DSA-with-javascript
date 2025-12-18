@@ -1,5 +1,5 @@
 # DSA-with-javascript
-# DSA Practice
+# DSA Practice WEEK-1
 
 ## Topics Covered
 - Arrays
@@ -21,3 +21,5 @@
 
 ## Purpose
 To build strong DSA fundamentals alongside Full Stack Development.
+
+
