@@ -10,6 +10,9 @@
 - Max and Min element
 - Reverse array
 - Largest among three numbers
+- Rotate Array (Logic)
+- Second Largest Element
+- Missing Number in Array
 
 ## String Problems
 - Reverse string
