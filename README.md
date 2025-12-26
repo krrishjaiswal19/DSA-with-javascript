@@ -4,6 +4,7 @@
 ## Topics Covered
 - Arrays
 - Strings
+- Pattern
 
 ## Array Problems
 - Sum of array
@@ -18,6 +19,15 @@
 - Reverse string
 - Palindrome check
 - Count vowels
+- Find Duplicate Character
+- Most Frequent Character
+- Remove space 
+
+## Pattern Problems
+- Triangle Pattern
+- Square pattern
+- Pyramid Pattern
+- Inverted Trangle Pattern
 
 ## Language Used
 - JavaScript
