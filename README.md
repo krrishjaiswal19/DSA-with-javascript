@@ -5,6 +5,7 @@
 - Arrays
 - Strings
 - Pattern
+- Hashmap
 
 ## Array Problems
 - Sum of array
@@ -28,6 +29,11 @@
 - Square pattern
 - Pyramid Pattern
 - Inverted Trangle Pattern
+
+## Hashmap Problems
+- Count Frequency of element
+- Find First Non-repeating Element
+
 
 ## Language Used
 - JavaScript
