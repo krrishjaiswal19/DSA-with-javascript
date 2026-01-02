@@ -1,5 +1,5 @@
 # DSA-with-javascript
-# DSA Practice WEEK-1
+# DSA Practice All Problems
 
 ## Topics Covered
 - Arrays
