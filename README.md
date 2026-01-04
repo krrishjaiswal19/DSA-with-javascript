@@ -6,6 +6,7 @@
 - Strings
 - Pattern
 - Hashmap
+- Recursion
 
 ## Array Problems
 - Sum of array
@@ -33,6 +34,9 @@
 ## Hashmap Problems
 - Count Frequency of element
 - Find First Non-repeating Element
+
+## Recursion
+- 
 
 
 ## Language Used
