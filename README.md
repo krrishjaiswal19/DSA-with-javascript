@@ -7,6 +7,7 @@
 - Pattern
 - Hashmap
 - Recursion
+- Linked-Lists
 
 ## Array Problems
 - Sum of array
