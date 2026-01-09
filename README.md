@@ -9,7 +9,7 @@
 - Recursion
 - Linked-Lists
 
-## Array Problems
+### Array Problems
 - Sum of array
 - Max and Min element
 - Reverse array
@@ -18,7 +18,7 @@
 - Second Largest Element
 - Missing Number in Array
 
-## String Problems
+### String Problems
 - Reverse string
 - Palindrome check
 - Count vowels
@@ -26,18 +26,27 @@
 - Most Frequent Character
 - Remove space 
 
-## Pattern Problems
+### Pattern Problems
 - Triangle Pattern
 - Square pattern
 - Pyramid Pattern
 - Inverted Trangle Pattern
 
-## Hashmap Problems
+### Hashmap Problems
 - Count Frequency of element
 - Find First Non-repeating Element
 
 ## Recursion
-- 
+- Fibonacci
+- countDigitsInNumber
+- countOccuance
+- factorialOfnNumber
+- findmaxInArray
+- palindrone
+- printNumber
+- reverseString
+- sortedArray
+- sumOfnNumber
 
 
 ## Language Used
